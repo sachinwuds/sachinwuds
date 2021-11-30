@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sachinwuds
+- 👋 Hi, I’m @sachinwuds having 2+ years of experiance in python django.
 - 👀 I’m interested in to contribute python django projects
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on python django and flutter projects.
